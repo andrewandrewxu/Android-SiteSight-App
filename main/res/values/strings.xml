@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">SiteSight</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_first_name">First Name</string>
+    <string name="prompt_last_name">Last Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_confirm">Confirm Password</string>
+    <string name="prompt_profile_picture">Add Profile Picture</string>
+    <string name="prompt_continue">Continue</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_passwords_dont_match">Passwords don\'t match</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_site_creation">Create a Site</string>
+    <string name="title_activity_user_profile">Profile</string>
+    <string name="title_activity_profile_creator">Sign Up</string>
+    <string name="MarkerTitle">Create Site</string>
+
+
+    <string name="hello">Hello World, PhotoIntentActivity!</string>
+    <string name="btnIntend">Take (big) Picture</string>
+    <string name="btnIntendS">Take (small) Picture</string>
+    <string name="btnIntendI">Import Picture</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">CameraSample</string>
+    <string name="error_already_used_email">This email address is already used</string>
+
+
+</resources>
